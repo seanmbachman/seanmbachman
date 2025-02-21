@@ -11,6 +11,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/seanmbachman/azure-network-protocols)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/seanmbachman/VPN-Setup)
+ 
+  <h2>🎓📜Certifications🎓📜</h2>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/RUU9YWG61PIY">Google IT Support Certificate</a>
 
 <h2>📩Contact Me</h2>
 
