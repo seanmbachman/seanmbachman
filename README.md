@@ -1,4 +1,4 @@
-<h1>Hello I'm Sean, an <a href="linkedin.com/in/seanmbachman">IT Specialist</a>☺</h1>
+<h1>Hello I'm Sean, an <a href="https://www.linkedin.com/in/seanmbachman/">IT Specialist</a>☺</h1>
 
 <h2>🖥️ Information Technology Projects🖥</h2>
 
@@ -19,4 +19,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]:linkedin.com/in/seanmbachman
+[linkedin]:https://www.linkedin.com/in/seanmbachman/
