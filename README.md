@@ -12,7 +12,7 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/seanmbachman/VPN-Setup)
  
-  <h2>🎓📜Certifications🎓📜</h2>
+- <b>🎓📜Certifications🎓📜</b>
   - <a href="https://www.coursera.org/account/accomplishments/professional-cert/RUU9YWG61PIY">Google IT Support Certificate</a>
 
 <h2>📩Contact Me</h2>
